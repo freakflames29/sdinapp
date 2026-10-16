@@ -1,0 +1,9 @@
+{
+  "name": "fixture-expo-router",
+  "version": "1.0.0",
+  "dependencies": {
+    "expo": "~52.0.0",
+    "expo-router": "~4.0.0",
+    "react-native": "0.76.0"
+  }
+}
